@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lesson6_1</string>
+    <string name="todo">todo</string>
+    <string name="random">random</string>
+    <string name="submit">submit</string>
+    <string name="is_not_image">Is not Image</string>
+</resources>
